@@ -1,6 +1,5 @@
+flask
 opencv-python
-matplotlib
-numpy
 tensorflow
 keras
-pillow
+numpy
